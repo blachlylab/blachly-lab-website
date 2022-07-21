@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic-group">
+
+    
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://blachlylab.github.io/blachly.github.io//js/hugo-academic-group.js"></script>
+
+    <link rel="stylesheet" href="https://blachlylab.github.io/blachly.github.io//css/bootstrap.min.css">
+    <script src="https://blachlylab.github.io/blachly.github.io//js/bootstrap.min.js"></script>  
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css" />
+    
+    
+    <script src="https://blachlylab.github.io/blachly.github.io//js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+    <link rel="stylesheet" href="https://blachlylab.github.io/blachly.github.io//css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://blachlylab.github.io/blachly.github.io//css/academicons.min.css">
+    <link rel="stylesheet" href="https://blachlylab.github.io/blachly.github.io//css/biaslab-font.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
+    <link rel="stylesheet" href="https://blachlylab.github.io/blachly.github.io//css/hugo-academic-group.css">
+
+    
+
+
+    <link rel="shortcut icon" href="https://blachlylab.github.io/blachly.github.io//img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://blachlylab.github.io/blachly.github.io/publication/blood-2019-131503/">
+
+    <title>Enumerating Functional HSC Clones in the Zebrafish Using Gestalt | Blachly Lab</title>
+
+</head>
+
+<body>
+<div class="home-anchor" id="home"></div>
+
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-brand">
+                
+                    <a class="logo" href="">
+                        <img src="https://blachlylab.github.io/blachly.github.io/img/lab_logo.png" alt="University logo"></img>
+                    </a>
+                
+                
+                 
+                    
+                    
+                        <a href="">Blachly Lab</a>
+                    
+    
+                
+            </div>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://blachlylab.github.io/blachly.github.io/#top">Home</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://blachlylab.github.io/blachly.github.io/research">Research</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://blachlylab.github.io/blachly.github.io/#publications">Publications</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://blachlylab.github.io/blachly.github.io/#projects">Projects</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://blachlylab.github.io/blachly.github.io/#members">Members</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://blachlylab.github.io/blachly.github.io/#posts">Blog</a></li>
+                    
+                
+                        
+                        
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Join us <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                              
+                                <li><a href="">Internships</a></li>
+                              
+                                <li><a href="">Vacancies</a></li>
+                              
+                            </ul>
+                          </li>
+                    
+                
+                        
+                        
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Software <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                              
+                                <li><a href="https://github.com/blachlylab/dhtslib">dhtslib</a></li>
+                              
+                                <li><a href="https://github.com/blachlylab/fade">fade</a></li>
+                              
+                                <li><a href="https://github.com/blachlylab/fishnet">fishnet</a></li>
+                              
+                                <li><a href="https://github.com/blachlylab/maskerade">maskerade</a></li>
+                              
+                                <li><a href="https://github.com/blachlylab/mucor3">mucor3</a></li>
+                              
+                                <li><a href="https://github.com/blachlylab/nopilesum">nopilesum</a></li>
+                              
+                                <li><a href="https://github.com/blachlylab/recontig">recontig</a></li>
+                              
+                                <li><a href="https://github.com/blachlylab/SABER">SABER</a></li>
+                              
+                                <li><a href="https://github.com/blachlylab/swiftover">swiftover</a></li>
+                              
+                            </ul>
+                          </li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://blachlylab.github.io/blachly.github.io/#contact">Contact</a></li>
+                    
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+
+
+<div class="container">
+
+    <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="pub-title">
+                    <h1 itemprop="name">Enumerating Functional HSC Clones in the Zebrafish Using Gestalt</h1>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="pub-authors" itemprop="author">
+                    
+<div itemprop="author">
+        
+            
+                
+<span class="author-name">
+    
+        Emily Teets
+    
+</span>,
+            
+                
+<span class="author-name">
+    
+        Charles Thomas Gregory
+    
+</span>,
+            
+                
+<span class="author-name">
+    
+        Caner Saygin
+    
+</span>,
+            
+                
+<span class="author-name">
+    
+        Jami L Shaffer
+    
+</span>,
+            
+                
+<span class="author-name">
+    
+        James Blachly
+    
+</span>,
+            
+            
+                 
+<span class="author-name">
+    
+        Bradley W Blaser
+    
+</span>
+            
+        
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <h3>Abstract</h3>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <p class="pub-abstract" itemprop="text">Hematopoietic stem cells (HSCs) are functionally and genetically diverse. This diversity decreases as a function of age and with the development of myeloid neoplasia. Numerous systems have been developed to genetically &lsquo;barcode&rsquo; HSCs and quantify HSC clone numbers in the setting of native hematopoiesis, but no experimental and computational framework has been established to perform this analysis on a large number of biological replicates. Here we have employed the transgenic zebrafish system, Genome Editing of Synthetic Target Arrays for Lineage Tracing (GESTALT), to develop a framework scaled to permit the investigation of putative oncogenes or niche factors with moderate to small effect sizes. The GESTALT line carries a single copy of an array of 10 tandem CRISPR target sites that is highly variable after being repaired by non-homologous end joining. GESTALT embryos were injected with sgRNAs and Cas9 protein to generate genetic barcodes at the GESTALT locus. Fifty-six zebrafish were raised to adulthood and GESTALT variants were read from a sample of peripheral blood by amplicon sequencing. In a training set of 35 fish we developed a computational model to discriminate informative barcodes from uninformative GESTALT variants in each sample. This model identifies variants shared among samples and excludes them as uninformative. Experimentally-defined thresholds were used to minimize inter-sample correlation (mean Pearson Correlation Coefficient = 0.0021) while maximizing the number of retained informative barcodes in each sample. Bootstrapping and k-means clustering were used to classify samples with a high or low fraction of informative (FI) barcodes (FI cutoff = 0.65). 24 samples within the training set were classified in the High-FI group (mean FI = 0.93 ± 0.02, compared to 0.40 ± 0.04 in the Low-FI group). We then evaluated 3 methods of quantifying GESTALT HSC clones from all sequenced barcodes in the High-FI samples and found that counting barcodes with a VAF&gt;0.02 produced the most normal distribution across the training set (Shapiro-Wilk test for normality, W = 0.95, p = 0.21). 4.3 ± 0.38 GESTALT HSC clones were detected in the training set. In an independent validation set of 21 samples, the number of GESTALT HSC clones was 3.4 ± 0.55, (p = 0.2). This study provides the largest reference dataset to date for HSC genetic barcoding experiments in the zebrafish and addresses the validity of barcode sequences, sample selection and clone enumeration in a systematic, objective way. The GESTALT barcoding system and our analysis framework compare favorably with other methods of studying HSC clonal diversity under conditions of native hematopoiesis in terms of scale, cost, labor and barcode validity. Future studies aiming to understand the mechanisms of HSC clonal evolution in the context of health, ageing and disease will benefit from this framework for enumerating functional HSC clones.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+                    <div class="col-xs-12 col-sm-9">Enumerating Functional HSC Clones in the Zebrafish Using Gestalt</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="visible-xs space-below"></div>
+
+        
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+                        
+                        November, 2019
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="visible-xs space-below"></div>
+
+        <div class="row" style="padding-top: 10px">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+                    <div class="col-xs-12 col-sm-9">
+
+                        
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://ashpublications.org/blood/article/134/Supplement_1/3724/424118/Enumerating-Functional-HSC-Clones-in-the-Zebrafish">PDF</a>
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://blachlylab.github.io/project/research">Project</a>
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="visible-xs space-below"></div>
+
+        <div class="space-below"></div>
+
+        <div class="article-style"></div>
+
+    </div>
+
+
+</div>
+
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            © Blachly Lab, 2022 &middot; 
+
+            Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#home" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+
+
+
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+</script>
+
+<script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+
+</body>
+</html>
+

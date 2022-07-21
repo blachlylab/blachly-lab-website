@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blachlylab.github.io/blachly.github.io/alumni/</loc>
+    <lastmod>2022-07-21T15:52:22+02:00</lastmod>
+  </url><url>
+    <loc>https://blachlylab.github.io/blachly.github.io/alumni/alumni1/</loc>
+    <lastmod>2022-07-21T15:52:22+02:00</lastmod>
+  </url><url>
     <loc>https://blachlylab.github.io/blachly.github.io/</loc>
-    <lastmod>2021-11-12T16:37:31+02:00</lastmod>
+    <lastmod>2022-07-21T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://blachlylab.github.io/blachly.github.io/publication/humu.24304/</loc>
     <lastmod>2021-11-12T16:37:31+02:00</lastmod>
@@ -76,6 +82,15 @@
   </url><url>
     <loc>https://blachlylab.github.io/blachly.github.io/publication/2159-8290.cd-19-0209/</loc>
     <lastmod>2019-11-12T16:37:31+02:00</lastmod>
+  </url><url>
+    <loc>https://blachlylab.github.io/blachly.github.io/post/ctdna-as-a-biomarker-in-hairy-cell-leukemia/</loc>
+    <lastmod>2019-10-29T16:50:58+02:00</lastmod>
+  </url><url>
+    <loc>https://blachlylab.github.io/blachly.github.io/post/</loc>
+    <lastmod>2019-10-29T16:50:58+02:00</lastmod>
+  </url><url>
+    <loc>https://blachlylab.github.io/blachly.github.io/post/why-i-chose-a-career-in-hematology/</loc>
+    <lastmod>2019-09-23T16:50:58+02:00</lastmod>
   </url><url>
     <loc>https://blachlylab.github.io/blachly.github.io/publication/s41375-019-0560-3/</loc>
     <lastmod>2019-08-12T16:37:31+02:00</lastmod>
@@ -152,12 +167,6 @@
     <loc>https://blachlylab.github.io/blachly.github.io/publication/bjh.14254/</loc>
     <lastmod>2016-08-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://blachlylab.github.io/blachly.github.io/post/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
-  </url><url>
-    <loc>https://blachlylab.github.io/blachly.github.io/post/post2/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
-  </url><url>
     <loc>https://blachlylab.github.io/blachly.github.io/publication/leu2016196/</loc>
     <lastmod>2016-07-12T16:37:31+02:00</lastmod>
   </url><url>
@@ -173,9 +182,6 @@
     <loc>https://blachlylab.github.io/blachly.github.io/project/research/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
-    <loc>https://blachlylab.github.io/blachly.github.io/alumni/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
     <loc>https://blachlylab.github.io/blachly.github.io/member/member2/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
@@ -188,17 +194,8 @@
     <loc>https://blachlylab.github.io/blachly.github.io/member/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://blachlylab.github.io/blachly.github.io/alumni/alumni1/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
     <loc>https://blachlylab.github.io/blachly.github.io/member/member3/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
-    <loc>https://blachlylab.github.io/blachly.github.io/post/notebook/</loc>
-    <lastmod>2016-07-12T15:50:58+02:00</lastmod>
-  </url><url>
-    <loc>https://blachlylab.github.io/blachly.github.io/post/post1/</loc>
-    <lastmod>2016-07-12T15:50:58+02:00</lastmod>
   </url><url>
     <loc>https://blachlylab.github.io/blachly.github.io/publication/2159-8290.cd-16-0023/</loc>
     <lastmod>2016-06-12T16:37:31+02:00</lastmod>

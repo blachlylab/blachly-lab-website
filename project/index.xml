@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Blachly Lab</title>
-    <link>https://blachlylab.github.io/blachly.github.io/project/</link>
+    <link>https://blachlylab.github.io/project/</link>
     <description>Recent content in Projects on Blachly Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Blachly Lab, 2022</copyright>
-    <lastBuildDate>Tue, 12 Jul 2016 16:10:22 +0200</lastBuildDate><atom:link href="https://blachlylab.github.io/blachly.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jul 2016 16:10:22 +0200</lastBuildDate><atom:link href="https://blachlylab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blachly Lab Tools and Software</title>
-      <link>https://blachlylab.github.io/blachly.github.io/project/tools/</link>
+      <link>https://blachlylab.github.io/project/tools/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       
-      <guid>https://blachlylab.github.io/blachly.github.io/project/tools/</guid>
+      <guid>https://blachlylab.github.io/project/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Completed Research Projects</title>
-      <link>https://blachlylab.github.io/blachly.github.io/project/finished/</link>
+      <link>https://blachlylab.github.io/project/finished/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       
-      <guid>https://blachlylab.github.io/blachly.github.io/project/finished/</guid>
+      <guid>https://blachlylab.github.io/project/finished/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research Projects</title>
-      <link>https://blachlylab.github.io/blachly.github.io/project/research/</link>
+      <link>https://blachlylab.github.io/project/research/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       
-      <guid>https://blachlylab.github.io/blachly.github.io/project/research/</guid>
+      <guid>https://blachlylab.github.io/project/research/</guid>
       <description></description>
     </item>
     

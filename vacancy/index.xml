@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vacancies on Blachly Lab</title>
-    <link>/vacancy/</link>
+    <link>/blachlylab.github.io/vacancy/</link>
     <description>Recent content in Vacancies on Blachly Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Blachly Lab, 2022</copyright><atom:link href="/vacancy/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Blachly Lab, 2022</copyright><atom:link href="/blachlylab.github.io/vacancy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/vacancy/vacancy1/</link>
+      <link>/blachlylab.github.io/vacancy/vacancy1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vacancy/vacancy1/</guid>
+      <guid>/blachlylab.github.io/vacancy/vacancy1/</guid>
       <description>Screen reader users may encounter difficulty with this site. For assistance with applying, please contact hr-accessibleapplication@osu.edu . If you have questions while submitting an application, please review these frequently asked questions .
 Current Employees and Students: If you are currently employed or enrolled as a student at The Ohio State University, please l og in to Workday to use the internal application process. Welcome to The Ohio State University&amp;rsquo;s career site.</description>
     </item>

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on Blachly Lab</title>
-    <link>https://blachlylab.github.io/member/</link>
+    <link>/member/</link>
     <description>Recent content in Members on Blachly Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Blachly Lab, 2022</copyright>
-    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate><atom:link href="https://blachlylab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate><atom:link href="/member/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Esko Kautto</title>
-      <link>https://blachlylab.github.io/member/member2/</link>
+      <link>/member/member2/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://blachlylab.github.io/member/member2/</guid>
+      <guid>/member/member2/</guid>
       <description>Experienced Informatics Specialist with a demonstrated history of working in the hospital &amp;amp; health care industry. Skilled in Python, PHP, E-commerce, C++, and WordPress. Strong research professional with a Bachelor’s Degree focused in Computer Science and Engineering from The Ohio State University. In his PhD thesis work, Esko Kautto has crafted a same-day, broad, sequencing-based molecular diagnostic test for AML that will transform patient care.</description>
     </item>
     
     <item>
       <title>James Blachly</title>
-      <link>https://blachlylab.github.io/member/member1/</link>
+      <link>/member/member1/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://blachlylab.github.io/member/member1/</guid>
+      <guid>/member/member1/</guid>
       <description>Dr. Blachly is an oncologist focused on the treatment of patients diagnosed with hairy cell leukemia, acute myeloid leukemia (AML), acute lymphocytic leukemia (ALL) and chronic lymphocytic leukemia (CLL). He’s a member of the Leukemia Research Program at the OSUCCC – James and serve as an assistant professor in The Ohio State University Division of Hematology. As a member of the Leukemia Research Program at the OSUCCC – James, his research interest is in genomics and gene transcription in leukemia and its relevance in experimental therapeutics.</description>
     </item>
     
     <item>
       <title>Kat Kananen</title>
-      <link>https://blachlylab.github.io/member/member4/</link>
+      <link>/member/member4/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://blachlylab.github.io/member/member4/</guid>
+      <guid>/member/member4/</guid>
       <description>Kathryn earned a B.S in bioinformatics and computational biology from Iowa State University and a Master’s of Applied Bioinformatics at Cranfield University, Cranfield, UK. She was an undergraduate researcher for four years working on analysis of genomics and population architecture of maize and teosinte developing expertise in genetics, bioinformatics, and field work. In 2016, she received the Iowa State Emerging Leadership Award and actively volunteered as a Speaker’s Bureau panelist and helped with event planning / fundraising, while completing her undergraduate.</description>
     </item>
     
     <item>
       <title>Thomas Gregory</title>
-      <link>https://blachlylab.github.io/member/member3/</link>
+      <link>/member/member3/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://blachlylab.github.io/member/member3/</guid>
+      <guid>/member/member3/</guid>
       <description>Thomas is a bioinformatician / computational biologist with 4 years of experience creating novel algorithms for the analysis of NGS data as well as the creation and maintenance of various NGS analysis pipelines. He currently have experience in various programming languages: python, R, D, Rust, Go, Java, and JavaScript; he has also worked on a variety of projects: development of a variant caller, AWS hosted real-time data analysis of NGS data, development of new analysis pipelines for novel laboratory protocols, transformation of VCF variant data into spreadsheets for clinical staff.</description>
     </item>
     

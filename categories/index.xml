@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blachly Lab</title>
-    <link>/blachlylab.github.io/categories/</link>
+    <link>https://blachlylab.github.io/categories/</link>
     <description>Recent content in Categories on Blachly Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Blachly Lab, 2022</copyright><atom:link href="/blachlylab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Blachly Lab, 2022</copyright><atom:link href="https://blachlylab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
